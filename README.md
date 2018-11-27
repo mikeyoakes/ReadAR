@@ -1,2 +1,0 @@
-# ReadAR
-ReadAR Project
