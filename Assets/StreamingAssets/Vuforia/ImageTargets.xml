@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="The-Man-of-Cloud-9" size="1.000000 1.498741" />
+    <ImageTarget name="The-Man-In-Cloud-9Cover-minusGutter_72" size="1.000000 1.537468" />
+    <ImageTarget name="eBook-Beauties-of-the-Beast-The-Yellow-Hoods" size="1.000000 1.522843" />
+    <ImageTarget name="eBook-All-the-Kings-Men-The-Yellow-Hoods" size="1.000000 1.522843" />
+    <ImageTarget name="Book-Along-Came-a-Wolf-The-Yellow-Hoods" size="1.000000 1.522843" />
+    <ImageTarget name="Nix_Book_2" size="1.000000 1.652284" />
+    <ImageTarget name="Nix_Book_1" size="1.000000 1.628664" />
+    <ImageTarget name="lifesinception_orig" size="1.000000 1.612903" />
+    <ImageTarget name="lifesinception_hope" size="1.000000 1.610170" />
+    <ImageTarget name="LifesDefeat" size="1.000000 1.650165" />
+    <ImageTarget name="Sweet-Untasted--FraserSunderland" size="1.000000 1.594249" />
+  </Tracking>
+</QCARConfig>
